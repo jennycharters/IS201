@@ -1,0 +1,26 @@
+body{
+    background-color: #E0D2D2 
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    color: #302D2D;
+}
+
+h2{
+    color: gray;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: #4D4848;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4{
+    text-align: center;
+}
